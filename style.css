@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    width: 70%;
+}
+.link-batton{
+    text-decoration: none;
+background-color: orange;
+padding: 10px 40px;
+background-image: linear-gradient(orange, tomato
+);
+border-radius: 5px;
+}
+
+.tg{
+    text-align: center;
+    color: darkslategray;
+}
+
+.techno{
+    width: 400;
+    height: 210;
+}
+
+
